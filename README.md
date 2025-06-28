@@ -9,7 +9,7 @@ The goal was to identify potential risks that could emerge if the robotic system
 - **Project Summary:** A detailed overview of the original project structure, agile roles, and outcomes.
 - **Cybersecurity Application:** Analysis of potential risks (e.g., wireless compromise, camera hijacking, input injection).
 - **ISO 27001 Mapping:** Controls from Annex A were mapped to real project risks.
-- **Risk Register:** Spreadsheet listing key risks, control owners, and mitigation strategies.
+- **Risk Register:** Spreadsheet listing key risks, CIA triad rating (1-3), and mitigation strategies.
 - **Visual Mapping:** A security control matrix chart showing relationships to ISO 27001 domains.
 
 ## Files
