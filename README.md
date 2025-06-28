@@ -11,7 +11,7 @@ This project revisits an engineering course assignment to build an autonomous ro
 - **Visual Mapping:** A security control matrix chart showing relationships to ISO 27001 domains.
 
 ## Files
-- `Robotic_Vehicle_Project_Overview.docx` – Full project write-up
+- `Robotic_Vehicle_Project_Overview.pdf` – Full project write-up
 - `ISO27001_Risk_Register.xlsx` – Risk register mapped to ISO 27001:2022
 - `Security_Control_Mapping.png` – Visual security matrix
 
